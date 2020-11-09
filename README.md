@@ -6,5 +6,7 @@ Till now in this project we have:
 2. Configure web server (httpd)
 3. Hadoop 
 4. Docker 
+
 Here, we have option to run it locally but soon i'll also add to run it remotely
+
 Thank-you!

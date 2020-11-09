@@ -14,3 +14,5 @@ All thanks to my mentor Mr. Vimal Daga Sir,
 #python #vimaldaga #righteducation #educationredefine #rightmentor #worldrecordholder #linuxworld #makingindiafutureready #righeudcation #arthbylw
 
 Thank-you!
+
+(It's a team project but because of exams we were not able to perform it, so I just uploaded what is done till now, Thank-you!)

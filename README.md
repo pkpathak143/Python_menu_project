@@ -9,4 +9,8 @@ Till now in this project we have:
 
 Here, we have option to run it locally but soon i'll also add to run it remotely
 
+All thanks to my mentor Mr. Vimal Daga Sir,
+
+#python #vimaldaga #righteducation #educationredefine #rightmentor #worldrecordholder #linuxworld #makingindiafutureready #righeudcation #arthbylw
+
 Thank-you!

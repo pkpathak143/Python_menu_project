@@ -2,7 +2,7 @@
 This project is started now, I will work on it and will update here also
 
 Till now in this project we have:
-1. Some basics of linux commands 
+1. Some basic linux commands 
 2. Configure web server (httpd)
 3. Hadoop 
 4. Docker 
